@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Inter;
+    width: 550px;
+height: 868px;
+top: 53px;
+left: 664px;
+background: #23252C;
+}
+
+.app {
+Width:317px;
+Height:780px;
+position: absolute;
+Top:44px;
+Left:150px;
+background-color:#1A1B21;
+border-radius: 20px;
+}
+
+.pfp {
+    width: 317px;
+height: 317px;
+top: 44px;
+left: 116px;
+border-radius: 10px, 10px, 0px, 0px;
+border-radius:20px;
+}
+.myName {
+font-size: 25px;
+font-weight: 700;
+line-height: 30px;
+text-align: center;
+color:white;
+margin-bottom: 10px;
+}
+.title {
+font-size: 13px;
+font-weight: 400;
+line-height: 15px;
+text-align: center;
+color:#F3BF99;
+margin: 0px;
+}
+.website {
+    color:white;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+text-align: center;
+}
+.email-button {
+    width:247px;
+height: 34px;
+padding: 9px, 13px, 9px, 11px;
+border-radius: 6px;
+border: 1px;
+margin-left: 33px;
+margin-top:10px
+}
+.about{
+    width: 242.71px;
+height: 21px;
+color:white;
+margin-left: 33px;
+margin-top: 40px;
+margin-bottom: 5px;
+}
+.about-info {
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+color:#DCDCDC;
+margin-left: 33px;
+max-width: 247px;
+
+}
+
+.interests {
+    width: 242.71px;
+height: 21px;
+color:white;
+margin-left: 33px;
+margin-top: 20px;
+margin-bottom: 5px;
+}
+.interests-info {
+    font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+color:#DCDCDC;
+margin-left: 33px;
+max-width: 247px;
+}
+.footer {
+    width: 317px;
+height: 54px;
+border-radius: 0px 0px 20px 20px;
+background-color:#161619;
+margin-bottom:0;
+bottom: 0;
+margin-top: 20px;
+display: flex;
+align-items: center;
+justify-content:center;
+gap: 20px
+
+}
